@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Rafael Costa 👋
 
-<!--
-**rafaabc/rafaabc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**As a QA engineer, I believe that technology can help us in many aspects, from ordering food to buying stocks in the financial market. Because of that, it’s our responsibility to ensure that people using the technology have good experiences.**
 
-Here are some ideas to get you started:
+## Languages & Tools 🛠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;  
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&color=orange)&nbsp;![SeleniumWebDriver](https://img.shields.io/badge/-SeleniumWebDriver-05122A?style=flat&color=orange)&nbsp;![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&color=orange)&nbsp;![RestAssured](https://img.shields.io/badge/-RestAssured-05122A?style=flat&color=orange)&nbsp;  
+![JMeter](https://img.shields.io/badge/-JMeter-05122A?style=flat&color=orange)&nbsp;![BrowserStack](https://img.shields.io/badge/-BrowserStack-05122A?style=flat&color=orange)&nbsp;![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&color=orange)&nbsp;![CircleCI](https://img.shields.io/badge/-CircleCI-05122A?style=flat&color=orange)&nbsp;
+
+### Analytics ⚙️
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaabc&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=rafaabc&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rafaabc&hide_border=true)
+
+### Let's connect? 🤝
+
+<a href="https://www.linkedin.com/in/rafael-albuquerque-qa/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+<a href="https://medium.com/@faelsabc21"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+
+</p>
