@@ -10,11 +10,11 @@
 
 ### Analytics ⚙️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaabc&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaabc&layout=compact&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaabc&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaabc&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rafaabc&hide_border=true&show_icons=true&theme=dark))
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rafaabc&hide_border=true&show_icons=true&theme=vue)
 
 ### Let's connect? 🤝
 
