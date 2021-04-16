@@ -4,9 +4,21 @@
 
 ## Languages & Tools 🛠
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;  
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&color=orange)&nbsp;![SeleniumWebDriver](https://img.shields.io/badge/-SeleniumWebDriver-05122A?style=flat&color=orange)&nbsp;![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&color=orange)&nbsp;![RestAssured](https://img.shields.io/badge/-RestAssured-05122A?style=flat&color=orange)&nbsp;  
-![JMeter](https://img.shields.io/badge/-JMeter-05122A?style=flat&color=orange)&nbsp;![BrowserStack](https://img.shields.io/badge/-BrowserStack-05122A?style=flat&color=orange)&nbsp;![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&color=orange)&nbsp;![CircleCI](https://img.shields.io/badge/-CircleCI-05122A?style=flat&color=orange)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress&logoColor=white)&nbsp;
+![SeleniumWebDriver](https://img.shields.io/badge/-SeleniumWebDriver-05122A?style=flat&logo=selenium&logoColor=green)&nbsp;
+![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
+![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=flat&logo=circleci&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia&logoColor=purple)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
 ### Analytics ⚙️
 
