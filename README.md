@@ -4,9 +4,12 @@
 
 ## Languages & Tools 🛠
 
+![Python]((https://img.shields.io/badge/-Python-05122A?style=flat&logo=python))&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress&logoColor=white)&nbsp;
+![DataBricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks)&nbsp;
+![Pytest](https://img.shields.io/badge/-pytest-05122A?style=flat&logo=pytest)&nbsp;
 ![SeleniumWebDriver](https://img.shields.io/badge/-SeleniumWebDriver-05122A?style=flat&logo=selenium&logoColor=green)&nbsp;
 ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)&nbsp;
 ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=Gradle&logoColor=white)&nbsp;
