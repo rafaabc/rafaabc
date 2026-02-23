@@ -26,10 +26,6 @@
 
 ### Analytics ⚙️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaabc&size_weight=0.5&count_weight=0.5)
-
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaabc)](https://github.com/rafaabc/github-readme-stats)
-
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=rafaabc&hide_border=true&show_icons=true&theme=vue)
 
 ### Let's connect? 🤝
