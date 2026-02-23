@@ -1,4 +1,4 @@
-# Hi there, I'm Rafael Costa 👋
+# Hi there, I'm Rafael Albuquerque 👋
 
 **As a QA engineer, I believe that technology can help us in many aspects, from ordering food to buying stocks in the financial market. Because of that, it’s our responsibility to ensure that people using the technology have good experiences.**
 
