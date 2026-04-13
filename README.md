@@ -4,10 +4,12 @@
 
 ## Languages & Tools 🛠
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress&logoColor=white)&nbsp;
+![Playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![DataBricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks)&nbsp;
 ![Pytest](https://img.shields.io/badge/-pytest-05122A?style=flat&logo=pytest)&nbsp;
 ![SeleniumWebDriver](https://img.shields.io/badge/-SeleniumWebDriver-05122A?style=flat&logo=selenium&logoColor=green)&nbsp;
